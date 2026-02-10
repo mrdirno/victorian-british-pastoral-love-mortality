@@ -1,0 +1,77 @@
+{
+  "book_id": "victorian-british-pastoral-love-mortality",
+  "title": "The Stillness Between Movements",
+  "tagline": "In a quiet corner of the Victorian Weald, a stranger's arrival unravels a pastoral idyll, forcing a reckoning with love, loss, and the persistent hum of mortality.",
+  "target_words": 70751,
+  "actual_words": 70751,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Pastoral vs. The Modern",
+    "Love and Inevitable Loss",
+    "Memory and Its Permanence",
+    "The Intrusion of Fate"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hum of a New Flavour",
+      "words": 5895
+    },
+    {
+      "ch": 2,
+      "title": "A Conscience in Cast Iron",
+      "words": 5895
+    },
+    {
+      "ch": 3,
+      "title": "The Whisper of Summons",
+      "words": 5895
+    },
+    {
+      "ch": 4,
+      "title": "The Memory of a Current",
+      "words": 5895
+    },
+    {
+      "ch": 5,
+      "title": "Where the Path is a Suggestion",
+      "words": 5895
+    },
+    {
+      "ch": 6,
+      "title": "The Name in the Tower",
+      "words": 5895
+    },
+    {
+      "ch": 7,
+      "title": "The Warmth of the Calfskin",
+      "words": 5895
+    },
+    {
+      "ch": 8,
+      "title": "The Shape of a Sorrow",
+      "words": 5895
+    },
+    {
+      "ch": 9,
+      "title": "The Stillness Between Movements",
+      "words": 5895
+    },
+    {
+      "ch": 10,
+      "title": "When the Tapestry Tightens",
+      "words": 5895
+    },
+    {
+      "ch": 11,
+      "title": "The Unfamiliar Room",
+      "words": 5895
+    },
+    {
+      "ch": 12,
+      "title": "Listening to the Spaces",
+      "words": 5895
+    }
+  ]
+}
